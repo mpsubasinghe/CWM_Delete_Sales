@@ -1,0 +1,9 @@
+c:\users\mano\documents\visual studio 2010\Projects\CWM_Delete_Sales\CWM_Delete_Sales\obj\x86\Debug\CWM_Delete_Sales.Form1.resources
+c:\users\mano\documents\visual studio 2010\Projects\CWM_Delete_Sales\CWM_Delete_Sales\obj\x86\Debug\CWM_Delete_Sales.Resources.resources
+c:\users\mano\documents\visual studio 2010\Projects\CWM_Delete_Sales\CWM_Delete_Sales\obj\x86\Debug\CWM_Delete_Sales.vbproj.GenerateResource.Cache
+c:\users\mano\documents\visual studio 2010\Projects\CWM_Delete_Sales\CWM_Delete_Sales\bin\Debug\CWM_Delete_Sales.exe
+c:\users\mano\documents\visual studio 2010\Projects\CWM_Delete_Sales\CWM_Delete_Sales\bin\Debug\CWM_Delete_Sales.pdb
+c:\users\mano\documents\visual studio 2010\Projects\CWM_Delete_Sales\CWM_Delete_Sales\bin\Debug\CWM_Delete_Sales.xml
+c:\users\mano\documents\visual studio 2010\Projects\CWM_Delete_Sales\CWM_Delete_Sales\obj\x86\Debug\CWM_Delete_Sales.exe
+c:\users\mano\documents\visual studio 2010\Projects\CWM_Delete_Sales\CWM_Delete_Sales\obj\x86\Debug\CWM_Delete_Sales.xml
+c:\users\mano\documents\visual studio 2010\Projects\CWM_Delete_Sales\CWM_Delete_Sales\obj\x86\Debug\CWM_Delete_Sales.pdb
